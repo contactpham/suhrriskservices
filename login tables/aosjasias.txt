@@ -1,0 +1,152 @@
+		  <!-- SERVICES -->
+			<div class="services_block padbot40" data-appear-top-offset="-200" data-animated="fadeInUp">
+				
+				<!-- CONTAINER -->
+				<div class="container">
+				<br>
+					<!-- ROW -->
+					<div class="row">
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-ss-12 margbot30">
+                        	<a class="services_item" href="javascript:void(0);" >
+								<p><b>Workers'</b> Compensation</p>
+								<span>Our foundation, the very heart and soul of our organization, is Workers’ Compensation. Our expertise on this matter simply sets the standard.</span></a> <a href="commercial.html">Learn more...</a>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-ss-12 margbot30">
+<!-- BEGIN COPY HERE -->
+
+<!--Use of the MyWave logo and this source code is subject to the terms and conditions of the Zywave Operating Agreement. Any modifications to this code must first be approved by Zywave, Inc.-->
+<!-- COPYRIGHT 2005 ZYWAVE, INC. -->
+
+<form action="https://www.zywave.net/zywavepublic/PortalRedirector.aspx" method="post" name="login">
+	<table width="260" align="center" border="0" cellpadding="0" cellspacing="0"> 
+		<tr> 
+			<td colspan="2">
+				<img src="images/suhrconnect.png" height="71" width="262">
+			</td>
+		</tr> 
+		<tr> 
+			<td colspan="2" style="vertical-align:top"> 
+				<table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+					<tr> 
+						<td style="vertical-align:top" rowspan="2"><img src="https://www.zywave.net/images/mw_login2a.gif" height="54" width="78"></td> 
+						<td><font size="2" face="Arial, Helvetica" color="#000000">Username:&nbsp;</font></td> 
+						<td style="text-align:left"><font size="2" face="Arial, Helvetica"><input type="input" size="14" name="u"></font></td> 
+					</tr> 
+					<tr> 
+						<td><font size="2" face="Arial, Helvetica" color="#000000">Password:&nbsp;</font></td> 
+						<td style="text-align:left"><font size="2" face="Arial, Helvetica"><input id="password1" size="14" name="p" type="password"></font></td> 
+					</tr> 
+				</table> 
+			</td> 
+		</tr> 
+		<tr> 
+			<td style="vertical-align:top; width:119px;"><img src="https://www.zywave.net/images/mw_login2.gif" height="48" width="119" border="0"></td> 
+			<td style="vertical-align:top; width:206px;"> 
+				<table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+					<tr> 
+						<td><img src="https://www.zywave.net/images/spacer.gif" height="1" width="20"></td> 
+						<td style="text-align:right"> <input type="hidden" name="urlRedirect" value="default.asp"> <font size="1" face="Arial, Helvetica"><input type="submit" value="Log in" id="submit1" name="submit1"></font> </td> 
+					</tr> 
+				</table> 
+			</td> 
+		</tr> 
+		<tr> 
+			<td colspan="2"><img src="images/suhrconnect-b.png" height="26" width="262"></td> 
+		</tr> 
+		<tr> 
+			<td colspan="2" style="text-align:right"><font size="1" face="arial, helvetica"><a href="https://www.zywave.net/zywavenet/RetrieveLoginCredential.aspx?id=8963" target="_top"><font size="1" face="arial, helvetica">Retrieve your login information</font></a></font> </td> 
+		</tr> 
+	</table> 
+</form>
+
+<!-- END COPY HERE -->
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-ss-12 margbot30">
+<form action="https://thinkhr.com/hrhotline/login.php" method="post" target="new">
+	<table width="260" align="center" border="0" cellpadding="0" cellspacing="0"> 
+		<tr> 
+			<td colspan="2">
+				<img src="images/thinkhr-a.png" height="71" width="262">
+			</td>
+		</tr> 
+		<tr> 
+			<td colspan="2" style="vertical-align:top"> 
+				<table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+					<tr> 
+						<td style="vertical-align:top" rowspan="2"><img src="images/ltable-a.gif" height="54" width="78"></td> 
+						<td><font size="2" face="Arial, Helvetica" color="#000000">Username:&nbsp;</font></td> 
+						<td style="text-align:left"><font size="2" face="Arial, Helvetica"><input type="input" size="14" name="username" id="username"></font></td> 
+					</tr> 
+					<tr> 
+						<td><font size="2" face="Arial, Helvetica" color="#000000">Password:&nbsp;</font></td> 
+						<td style="text-align:left"><font size="2" face="Arial, Helvetica"><input id="passkey" size="14" name="passkey" type="password"></font></td> 
+					</tr> 
+				</table> 
+			</td> 
+		</tr> 
+		<tr> 
+			<td style="vertical-align:top; width:119px;"><img src="images/ltable-b.gif" height="48" width="119" border="0"></td> 
+			<td style="vertical-align:top; width:206px;"> 
+				<table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+					<tr> 
+						<td><img src="images/spacer.gif" height="1" width="20"></td> 
+						<td style="text-align:right"> <font size="1" face="Arial, Helvetica"><input type="submit" value="Log in"></font> </td> 
+					</tr> 
+				</table> 
+			</td> 
+		</tr> 
+		<tr> 
+			<td colspan="2"><img src="images/thinkhr-b.png" height="26" width="262"></td> 
+		</tr> 
+		<tr> 
+			<td colspan="2" style="text-align:right"><font size="1" face="arial, helvetica">ThinkHR Support: 1-877-225-1101</font></a></font> </td> 
+		</tr> 
+	</table> 
+</form>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-ss-12 margbot30">
+<form action="https://www.hrconnection.com/default.aspx" method="post" target="new">
+	<table width="260" align="center" border="0" cellpadding="0" cellspacing="0"> 
+		<tr> 
+			<td colspan="2">
+				<img src="images/hrconnection-a.png" height="71" width="262">
+			</td>
+		</tr> 
+		<tr> 
+			<td colspan="2" style="vertical-align:top"> 
+				<table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+					<tr> 
+						<td style="vertical-align:top" rowspan="2"><img src="images/ltable-a.gif" height="54" width="78"></td> 
+						<td><font size="2" face="Arial, Helvetica" color="#000000">Username:&nbsp;</font></td> 
+						<td style="text-align:left"><font size="2" face="Arial, Helvetica"><input type="input" size="14" name="user"></font></td> 
+					</tr> 
+					<tr> 
+						<td><font size="2" face="Arial, Helvetica" color="#000000">Password:&nbsp;</font></td> 
+						<td style="text-align:left"><font size="2" face="Arial, Helvetica"><input size="14" name="pswd" type="password"></font></td> 
+					</tr> 
+				</table> 
+			</td> 
+		</tr> 
+		<tr> 
+			<td style="vertical-align:top; width:119px;"><img src="images/ltable-b.gif" height="48" width="119" border="0"></td> 
+			<td style="vertical-align:top; width:206px;"> 
+				<table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+					<tr> 
+						<td><img src="images/spacer.gif" height="1" width="20"></td> 
+						<td style="text-align:right"> <font size="1" face="Arial, Helvetica"><input type="submit" value="Log in"></font> </td> 
+					</tr> 
+				</table> 
+			</td> 
+		</tr> 
+		<tr> 
+			<td colspan="2"><img src="images/hrconnection-b.png" height="26" width="262"></td> 
+		</tr> 
+		<tr> 
+			<td colspan="2" style="text-align:right"><font size="1" face="arial, helvetica"><a href="https://auth.zywave.com/password/recover?signInId=6ac3504168ca8210dc0f8b61ebefb85b" target="new">Forgot Your Password?</font></a></font> </td> 
+		</tr> 
+	</table> 
+</form>
+						</div>
+					</div><!-- //ROW -->
+				</div><!-- //CONTAINER -->
+			</div><!-- //SERVICES -->

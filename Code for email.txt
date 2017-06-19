@@ -1,0 +1,5 @@
+<script type="text/javascript">
+document.write('<a href="mailto:'+first + '@' + last+'">'+first + '@' + last+'<\/a>');
+</script>
+
+<noscript>Please enable javascript or use my <a href="/contact.php">contact form</a></noscript>
